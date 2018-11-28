@@ -28,7 +28,7 @@ import com.fasterxml.jackson.annotation.JsonInclude.Include;
 
 
 /**
- * User entity. @author fpc8
+ * User entity. @author fpc
  */
 @Entity
 @Table(name="user"
