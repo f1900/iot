@@ -16,7 +16,7 @@ import com.fasterxml.jackson.annotation.JsonIgnore;
 
 
 /**
- * Business entity. @author MyEclipse Persistence Tool
+ * Business entity. @author MyEclipse Persistence Tools
  */
 @Entity
 @Table(name="business"
