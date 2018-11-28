@@ -28,7 +28,7 @@ import com.fasterxml.jackson.annotation.JsonInclude.Include;
 
 
 /**
- * User entity. @author MyEclipse Persistence Toolss
+ * User entity. @author MyEclipse Persistence Tools
  */
 @Entity
 @Table(name="user"
